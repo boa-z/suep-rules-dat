@@ -5,7 +5,7 @@ docker-easyconnect 适用于 SUEP 的规则，仅个人使用，不保证更新�
 ## download
 
 * [suep for mihomo](./suep.yaml)
-* [suepip](./geo/ip/suep.json)
+* [suepip](./geo/geoip/suep.json)
 * [suepsite](./geo/geosite/suep.json)
 
 ## docker-easyconnect usage
