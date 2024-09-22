@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain_suffix": [
+          "ecard.shiep.edu.cn",
+          "jw.shiep.edu.cn",
+          "pan.shiep.edu.cn",
+          "pan.shiep.edu.cn"
+        ]
+      }
+    ]
+  }
