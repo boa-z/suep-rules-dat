@@ -19,6 +19,7 @@ rules:
   - 'DOMAIN-SUFFIX,library-api.shiep.edu.cn,⚡️🧱'
   - 'DOMAIN-SUFFIX,shiep.vpn358.com,⚡️🧱'
   - 'DOMAIN-SUFFIX,dxxybysj.shiep.edu.cn,⚡️🧱'
+  - 'DOMAIN-SUFFIX,lx.shiep.edu.cn,⚡️🧱'
   - 'IP-CIDR,10.52.0.0/16,⚡️🧱'
   - 'IP-CIDR,10.50.0.0/16,⚡️🧱'
   - 'IP-CIDR,10.166.0.0/16,⚡️🧱'
